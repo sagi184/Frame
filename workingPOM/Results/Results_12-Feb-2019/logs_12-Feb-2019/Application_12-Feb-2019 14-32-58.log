@@ -1,0 +1,18 @@
+2019-02-12 14:32:58 DEBUG devpinoyLogger:131 - log4j.properties file loaded Successfully.
+2019-02-12 14:32:58 DEBUG devpinoyLogger:144 - config.properties file loaded Successfully.
+2019-02-12 14:32:58 DEBUG devpinoyLogger:224 - Extent Report Instance created 
+2019-02-12 14:33:03 DEBUG devpinoyLogger:269 - Chrome browser launched successfully
+2019-02-12 14:33:04 DEBUG devpinoyLogger:336 - Browser window maximized
+2019-02-12 14:33:04 DEBUG devpinoyLogger:339 - Cookies deleted from browser
+2019-02-12 14:33:05 DEBUG devpinoyLogger:1260 - New workbook created
+2019-02-12 14:33:05 INFO  devpinoyLogger:244 - 
+2019-02-12 14:33:05 INFO  devpinoyLogger:245 - 
+2019-02-12 14:33:05 INFO  devpinoyLogger:246 - *****************************************************************
+2019-02-12 14:33:05 INFO  devpinoyLogger:247 - Test started is : TC-48673 Open POs detail screen and click on back button
+2019-02-12 14:33:05 INFO  devpinoyLogger:248 - Test description : Goto PO detail screen and click on back button 
+2019-02-12 14:33:05 INFO  devpinoyLogger:249 - *****************************************************************
+2019-02-12 14:33:05 ERROR devpinoyLogger:193 - Error while reading excel file
+2019-02-12 14:33:11 DEBUG devpinoyLogger:348 - Navigated to : https://pomasschangecontrollerdev.azurewebsites.net/ successfully 
+2019-02-12 14:33:11 ERROR devpinoyLogger:1212 - ERROR :  Test Case Failed is : OpenRecordAndGotoPOsDetailScreen
+2019-02-12 14:33:11 ERROR devpinoyLogger:1213 - ERROR :  Test Case Failed because of :  java.lang.AssertionError: null
+2019-02-12 14:33:13 DEBUG devpinoyLogger:1269 - Excel workbook closed with name : GotoPodetails

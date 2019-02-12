@@ -1,0 +1,3 @@
+2019-02-12 14:00:23 DEBUG devpinoyLogger:129 - log4j.properties file loaded Successfully.
+2019-02-12 14:00:23 DEBUG devpinoyLogger:142 - config.properties file loaded Successfully.
+2019-02-12 14:00:23 ERROR devpinoyLogger:163 - ERROR :  Failed to start video recorder.

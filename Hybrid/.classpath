@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/SagarAutomation/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/SagarAutomation/extendreports/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/SagarAutomation/extendreports/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="D:/SagarAutomation/extendreports/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/SagarAutomation/extendreports/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/SagarAutomation/extendreports/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/SagarAutomation/extendreports/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/SagarAutomation/extendreports/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="D:/SagarAutomation/POI jars/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="D:/SagarAutomation/POI jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/SagarAutomation/POI jars/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/SagarAutomation/POI jars/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="D:/SagarAutomation/POI jars/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/SagarAutomation/jcommander-1.64.jar"/>
+	<classpathentry kind="lib" path="D:/SagarAutomation/snakeyaml-1.17.jar"/>
+	<classpathentry kind="lib" path="D:/SagarAutomation/testng-6.11.jar"/>
+	<classpathentry kind="lib" path="D:/SagarAutomation/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/POI lib"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
